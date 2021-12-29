@@ -9,11 +9,12 @@
     }
   ],
   "dependencies": {
-    "com.unity.modules.jsonserialize": "1.0.0",
-    "com.unity.render-pipelines.universal": "12.0.0",
-    "com.unity.visualeffectgraph": "12.0.0",
+    "com.unity.ide.visualstudio": "2.0.12",
+    "com.unity.render-pipelines.universal": "12.1.1",
     "com.unity.timeline": "1.6.2",
+    "com.unity.visualeffectgraph": "12.1.1",
     "jp.keijiro.beta": "1.0.2",
-    "jp.keijiro.cmu-mocap": "1.0.0"
+    "jp.keijiro.cmu-mocap": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
   }
 }
